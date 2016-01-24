@@ -2,10 +2,11 @@
 <widget id="com.ionicframework.stockwatch105991" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>StockWatch</name>
   <description>
-        An Ionic Framework and Cordova project.
+      An application that would seamlessly help you keep track of the dynamic nature of the stock market.
+      StockWatch is developed using the Ionic Framework.
     </description>
-  <author email="you@example.com" href="http://example.com.com/">
-      Your Name Here
+  <author email="jacobmodayil@tamu.edu" href="http://www.jacobchackomodayil.com/">
+      Jacob Chacko Modayil
     </author>
   <content src="index.html"/>
   <access origin="*"/>
